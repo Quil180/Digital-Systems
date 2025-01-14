@@ -20,11 +20,38 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Part_2(
-    input In1, In2,
-    output Out
-    );
+//module Part_2_A(
+//    input In1, In2,
+//    output Out
+//    );
     
-    assign Out = ~(In1 & In2);
+//    assign Out = ~(In1 & In2);
     
-endmodule
+//endmodule
+
+//module Part_2_B(
+//    input In1, In2,
+//    output Out
+//    );
+    
+//    assign Out = (In1 | In2);
+    
+//endmodule
+
+//module Part_2_C(
+//    input In1, In2,
+//    output Out
+//    );
+    
+//    assign Out = (In1 ^ In2);
+    
+//endmodule
+
+//module Part_2_D(
+//    input In1,
+//    output Out
+//    );
+    
+//    assign Out = ~(In1);
+    
+//endmodule

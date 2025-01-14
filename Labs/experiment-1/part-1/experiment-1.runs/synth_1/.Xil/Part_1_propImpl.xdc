@@ -1,7 +1,0 @@
-set_property SRC_FILE_INFO {cfile:/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/experiment-1.srcs/constrs_1/new/Part_1_CSTR.xdc rfile:../../../experiment-1.srcs/constrs_1/new/Part_1_CSTR.xdc id:1} [current_design]
-set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN V17 [get_ports Inp_1]
-set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN V16 [get_ports Inp_2]
-set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN U16 [get_ports Outp]

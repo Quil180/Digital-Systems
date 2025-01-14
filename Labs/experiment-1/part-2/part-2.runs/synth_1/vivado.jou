@@ -3,22 +3,22 @@
 # SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
 # IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
 # SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
-# Start of session at: Tue Jan 14 10:19:14 2025
-# Process ID         : 65539
+# Start of session at: Tue Jan 14 10:43:11 2025
+# Process ID         : 83831
 # Current directory  : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.runs/synth_1
-# Command line       : vivado -log Part_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Part_2.tcl
-# Log file           : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.runs/synth_1/Part_2.vds
+# Command line       : vivado -log B.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source B.tcl
+# Log file           : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.runs/synth_1/B.vds
 # Journal file       : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.runs/synth_1/vivado.jou
 # Running On         : quil
 # Platform           : Arch
 # Operating System   : Arch Linux
 # Processor Detail   : AMD Ryzen 9 6900HS with Radeon Graphics
-# CPU Frequency      : 1397.326 MHz
+# CPU Frequency      : 1551.802 MHz
 # CPU Physical cores : 8
 # CPU Logical cores  : 16
 # Host memory        : 41241 MB
 # Swap memory        : 52613 MB
 # Total Virtual      : 93855 MB
-# Available Virtual  : 82937 MB
+# Available Virtual  : 82421 MB
 #-----------------------------------------------------------
-source Part_2.tcl -notrace
+source B.tcl -notrace

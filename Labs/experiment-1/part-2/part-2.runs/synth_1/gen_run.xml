@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1736867949" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/Part_2.dcp">
-  <File Type="VDS-TIMINGSUMMARY" Name="Part_2_timing_summary_synth.rpt"/>
-  <File Type="RDS-DCP" Name="Part_2.dcp"/>
-  <File Type="RDS-UTIL-PB" Name="Part_2_utilization_synth.pb"/>
-  <File Type="RDS-UTIL" Name="Part_2_utilization_synth.rpt"/>
-  <File Type="RDS-PROPCONSTRS" Name="Part_2_drc_synth.rpt"/>
-  <File Type="RDS-RDS" Name="Part_2.vds"/>
-  <File Type="REPORTS-TCL" Name="Part_2_reports.tcl"/>
-  <File Type="VDS-TIMING-PB" Name="Part_2_timing_summary_synth.pb"/>
-  <File Type="PA-TCL" Name="Part_2.tcl"/>
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1736869387" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/Part_2.dcp">
+  <File Type="VDS-TIMINGSUMMARY" Name="B_timing_summary_synth.rpt"/>
+  <File Type="RDS-DCP" Name="B.dcp"/>
+  <File Type="RDS-UTIL-PB" Name="B_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="B_utilization_synth.rpt"/>
+  <File Type="RDS-PROPCONSTRS" Name="B_drc_synth.rpt"/>
+  <File Type="RDS-RDS" Name="B.vds"/>
+  <File Type="REPORTS-TCL" Name="B_reports.tcl"/>
+  <File Type="VDS-TIMING-PB" Name="B_timing_summary_synth.pb"/>
+  <File Type="PA-TCL" Name="B.tcl"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/Part_2.v">
@@ -20,7 +20,7 @@
     </File>
     <Config>
       <Option Name="DesignMode" Val="RTL"/>
-      <Option Name="TopModule" Val="Part_2"/>
+      <Option Name="TopModule" Val="B"/>
       <Option Name="TopAutoSet" Val="TRUE"/>
     </Config>
   </FileSet>

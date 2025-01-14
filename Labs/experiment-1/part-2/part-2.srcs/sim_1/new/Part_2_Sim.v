@@ -24,7 +24,7 @@ module Part_2_Sim();
     reg In1, In2;
     wire Out;
     
-    Part_2 UUT(.In1(In1), .In2(In2), .Out(Out));
+    B UUT(.In1(In1), .In2(In2), .Out(Out));
     
     initial begin
         In1 = 0;

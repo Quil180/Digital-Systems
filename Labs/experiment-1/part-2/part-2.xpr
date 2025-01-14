@@ -91,6 +91,7 @@
       <Filter Type="Srcs"/>
       <File Path="$PSRCDIR/sources_1/new/Part_2.v">
         <FileInfo>
+          <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -98,7 +99,7 @@
       </File>
       <Config>
         <Option Name="DesignMode" Val="RTL"/>
-        <Option Name="TopModule" Val="Part_2"/>
+        <Option Name="TopModule" Val="B"/>
         <Option Name="TopAutoSet" Val="TRUE"/>
       </Config>
     </FileSet>
