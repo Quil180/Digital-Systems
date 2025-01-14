@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 01/14/2025 09:33:57 AM
+// Create Date: 01/14/2025 09:48:43 AM
 // Design Name: 
-// Module Name: Part_1
+// Module Name: Part_1_Sim
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,11 +20,25 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Part_1(
-    input Inp_1, Inp_2,
-    output Outp
-    );
+module Part_1_Sim();
+    reg Inp1, Inp2;
+    wire Out;
     
-    assign Outp = Inp_1 & Inp_2;
+    Part_1 UUT(.Inp_1(Inp1), .Inp_2(Inp2), .Outp(Out));
     
+    // actual test bench proper
+    initial
+    begin
+        Inp1 = 0;
+        Inp2 = 0;
+        #10
+        Inp1 = 1;
+        Inp2 = 0;
+        #10
+        Inp1 = 0;
+        Inp2 = 1;
+        #10
+        Inp1 = 1;
+        Inp2 = 1;
+    end
 endmodule
