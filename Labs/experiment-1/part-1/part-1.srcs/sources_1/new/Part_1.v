@@ -20,11 +20,11 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Part_1(
-    input Inp_1, Inp_2,
-    output Outp
+module AND(
+    input A, B,
+    output Out
     );
     
-    assign Outp = Inp_1 & Inp_2;
+    assign Out = A & B;
     
 endmodule

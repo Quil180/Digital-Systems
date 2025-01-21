@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Jan 17 00:30:15 2025
+# Process ID         : 277835
+# Current directory  : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.runs/synth_1
+# Command line       : vivado -log CIRCUIT_DEBUGGING.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CIRCUIT_DEBUGGING.tcl
+# Log file           : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.runs/synth_1/CIRCUIT_DEBUGGING.vds
+# Journal file       : /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.runs/synth_1/vivado.jou
+# Running On         : quil
+# Platform           : Arch
+# Operating System   : Arch Linux
+# Processor Detail   : AMD Ryzen 9 6900HS with Radeon Graphics
+# CPU Frequency      : 4662.228 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 41241 MB
+# Swap memory        : 52613 MB
+# Total Virtual      : 93855 MB
+# Available Virtual  : 56448 MB
+#-----------------------------------------------------------
+source CIRCUIT_DEBUGGING.tcl -notrace
