@@ -21,22 +21,23 @@
 
 
 module Part_2_Sim();
-    reg In1, In2;
+//    reg In1, In2;
+    reg In1;
     wire Out;
     
-    B UUT(.In1(In1), .In2(In2), .Out(Out));
+    Part_2_D UUT(.In1(In1), .Out(Out));
     
     initial begin
         In1 = 0;
-        In2 = 0;
+//        In2 = 0;
         #10
         In1 = 1;
-        In2 = 0;
+//        In2 = 0;
         #10
         In1 = 0;
-        In2 = 1;
+//        In2 = 1;
         #10
         In1 = 1;
-        In2 = 1;
+//        In2 = 1;
     end
 endmodule

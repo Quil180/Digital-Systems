@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2024.2 (lin64) Build 5239630 Fri Nov 08 22:34:34 MST 2024
-| Date         : Tue Jan 14 11:01:16 2025
+| Date         : Wed Jan 22 21:08:19 2025
 | Host         : quil running 64-bit Arch Linux
 | Command      : report_utilization -file Part_3_utilization_synth.rpt -pb Part_3_utilization_synth.pb
 | Design       : Part_3

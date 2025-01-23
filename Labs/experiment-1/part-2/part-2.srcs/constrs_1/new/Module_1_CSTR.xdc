@@ -1,6 +1,6 @@
 set_property PACKAGE_PIN V17 [get_ports In1]
-set_property PACKAGE_PIN V16 [get_ports In2]
+#set_property PACKAGE_PIN V16 [get_ports In2]
 set_property PACKAGE_PIN U16 [get_ports Out]
 set_property IOSTANDARD LVCMOS33 [get_ports In1]
-set_property IOSTANDARD LVCMOS33 [get_ports In2]
+#set_property IOSTANDARD LVCMOS33 [get_ports In2]
 set_property IOSTANDARD LVCMOS33 [get_ports Out]

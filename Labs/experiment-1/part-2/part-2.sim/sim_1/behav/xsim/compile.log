@@ -1,6 +1,4 @@
 INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.srcs/sources_1/new/Part_2.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Part_2
+INFO: [VRFC 10-311] analyzing module Part_2_D
 INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.srcs/sim_1/new/Part_2_Sim.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module Part_2_Sim
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-2/part-2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

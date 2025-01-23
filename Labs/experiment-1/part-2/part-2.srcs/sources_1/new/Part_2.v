@@ -47,11 +47,11 @@
     
 //endmodule
 
-//module Part_2_D(
-//    input In1,
-//    output Out
-//    );
+module Part_2_D(
+    input In1,
+    output Out
+    );
     
-//    assign Out = ~(In1);
+    assign Out = ~(In1);
     
-//endmodule
+endmodule

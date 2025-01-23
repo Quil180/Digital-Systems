@@ -1,0 +1,12 @@
+\contentsline {section}{Equipment}{2}{}%
+\contentsline {section}{Objective}{2}{}%
+\contentsline {section}{Design Steps (General/Part 1)}{2}{}%
+\contentsline {section}{Design Steps (Specific)}{4}{}%
+\contentsline {subsection}{AND Gate}{4}{}%
+\contentsline {subsection}{NAND Gate}{6}{}%
+\contentsline {subsection}{OR Gate}{8}{}%
+\contentsline {subsection}{XOR Gate}{10}{}%
+\contentsline {subsection}{Inverter Gate}{12}{}%
+\contentsline {subsection}{2 Input 5 Output Gate}{14}{}%
+\contentsline {section}{Test Steps}{16}{}%
+\contentsline {section}{Conclusion}{16}{}%

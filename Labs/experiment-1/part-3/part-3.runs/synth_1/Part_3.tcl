@@ -59,6 +59,8 @@ OPTRACE "synth_1" START { ROLLUP_AUTO }
 set_param checkpoint.writeSynthRtdsInDcp 1
 set_param chipscope.maxJobs 4
 set_param xicom.use_bs_reader 1
+set_param synth.incrementalSynthesisCache ./.Xil/Vivado-22393-quil/incrSyn
+set_msg_config -id {Common 17-41} -limit 10000000
 set_msg_config -id {Synth 8-256} -limit 10000
 set_msg_config -id {Synth 8-638} -limit 10000
 OPTRACE "Creating in-memory project" START { }
@@ -85,8 +87,8 @@ OPTRACE "Adding files" END { }
 foreach dcp [get_files -quiet -all -filter file_type=="Design\ Checkpoint"] {
   set_property used_in_implementation false $dcp
 }
-read_xdc /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-1/experiment-1.srcs/constrs_1/new/Part_1_CSTR.xdc
-set_property used_in_implementation false [get_files /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-1/experiment-1.srcs/constrs_1/new/Part_1_CSTR.xdc]
+read_xdc /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-3/part-3.srcs/constrs_1/new/part_3.xdc
+set_property used_in_implementation false [get_files /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-1/part-3/part-3.srcs/constrs_1/new/part_3.xdc]
 
 set_param ips.enableIPCacheLiteLoad 1
 
