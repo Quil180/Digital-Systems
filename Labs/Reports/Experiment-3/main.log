@@ -1,0 +1,802 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/nixos.org) (preloaded format=pdflatex 1980.1.1)  18 FEB 2025 23:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count268
+\@vwid@loff=\dimen144
+\@vwid@roff=\dimen145
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/karnaugh-map/karnaugh-map.sty
+Package: karnaugh-map 2022/01/15 v2.0 Draw Karnaugh Maps
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/l3packages/xparse/xparse.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-10-09 L3 programming layer (loader) 
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/xstring/xstring.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/xstring/xstring.tex
+\xs_counta=\count270
+\xs_countb=\count271
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/frontendlayer/tikz.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/basiclayer/pgf.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/utilities/pgfrcs.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen146
+\pgfutil@tempdimb=\dimen147
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen148
+\pgf@y=\dimen149
+\pgf@xa=\dimen150
+\pgf@ya=\dimen151
+\pgf@xb=\dimen152
+\pgf@yb=\dimen153
+\pgf@xc=\dimen154
+\pgf@yc=\dimen155
+\pgf@xd=\dimen156
+\pgf@yd=\dimen157
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count276
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmath.code.tex
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count279
+\pgfmath@box=\box55
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfint.code.tex)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen159
+\pgf@picmaxx=\dimen160
+\pgf@picminy=\dimen161
+\pgf@picmaxy=\dimen162
+\pgf@pathminx=\dimen163
+\pgf@pathmaxx=\dimen164
+\pgf@pathminy=\dimen165
+\pgf@pathmaxy=\dimen166
+\pgf@xx=\dimen167
+\pgf@xy=\dimen168
+\pgf@yx=\dimen169
+\pgf@yy=\dimen170
+\pgf@zx=\dimen171
+\pgf@zy=\dimen172
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen173
+\pgf@path@lasty=\dimen174
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen175
+\pgf@shorten@start@additional=\dimen176
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count281
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen177
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen178
+\pgf@pt@y=\dimen179
+\pgf@pt@temp=\dimen180
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen181
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/utilities/pgffor.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/utilities/pgfkeys.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/pgf/math/pgfmath.sty
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/math/pgfmath.code.tex))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen187
+)
+\tikz@lastx=\dimen188
+\tikz@lasty=\dimen189
+\tikz@lastxsaved=\dimen190
+\tikz@lastysaved=\dimen191
+\tikz@lastmovetox=\dimen192
+\tikz@lastmovetoy=\dimen193
+\tikzleveldistance=\dimen194
+\tikzsiblingdistance=\dimen195
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\pgf@matrix@numberofcolumns=\count291
+)
+\tikz@expandcount=\count292
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.cod
+e.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.t
+ex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code
+.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\@karnaughmap@var@colorindex@=\count293
+\@karnaughmap@var@colorindexnext@=\count294
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen196
+\captionmargin=\dimen197
+\caption@leftmargin=\dimen198
+\caption@rightmargin=\dimen199
+\caption@width=\dimen256
+\caption@indent=\dimen257
+\caption@parindent=\dimen258
+\caption@hangindent=\dimen259
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+)
+\c@KVtest=\count297
+\sf@farskip=\skip51
+\sf@captopadj=\dimen260
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count298
+\c@subfigure@save=\count299
+\c@lofdepth=\count300
+\c@subtable=\count301
+\c@subtable@save=\count302
+\c@lotdepth=\count303
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/listings.sty
+\lst@mode=\count304
+\lst@gtempboxa=\box65
+\lst@token=\toks30
+\lst@length=\count305
+\lst@currlwidth=\dimen261
+\lst@column=\count306
+\lst@pos=\count307
+\lst@lostspace=\dimen262
+\lst@width=\dimen263
+\lst@newlines=\count308
+\lst@lineno=\count309
+\lst@maxwidth=\dimen264
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count310
+\lst@skipnumbers=\count311
+\lst@framebox=\box66
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (./main.aux
+
+LaTeX Warning: Label `Part 2 Waveform' multiply defined.
+
+
+LaTeX Warning: Label `Part 2 Waveform' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen265
+\scratchbox=\box67
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen266
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks32
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count318
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 54.
+ (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+[1
+
+{/nix/store/ajpis7s86mmp6sz64pdlbwdc90d0sgca-texlive-combined-full-2024.2024102
+7/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+
+[2]
+
+[3]
+Overfull \hbox (32.7732pt too wide) detected at line 157
+[]
+ []
+
+<part-2-waveform.png, id=23, 512.66531pt x 140.77594pt>
+File: part-2-waveform.png Graphic file (type png)
+<use part-2-waveform.png>
+Package pdftex.def Info: part-2-waveform.png  used on input line 164.
+(pdftex.def)             Requested size: 172.5pt x 47.36697pt.
+<part-2-schematic-after.png, id=25, 670.00313pt x 167.87718pt>
+File: part-2-schematic-after.png Graphic file (type png)
+<use part-2-schematic-after.png>
+Package pdftex.def Info: part-2-schematic-after.png  used on input line 170.
+(pdftex.def)             Requested size: 137.9979pt x 34.57642pt.
+<part-2-schematic-before.png, id=26, 668.4975pt x 181.42781pt>
+File: part-2-schematic-before.png Graphic file (type png)
+<use part-2-schematic-before.png>
+Package pdftex.def Info: part-2-schematic-before.png  used on input line 172.
+(pdftex.def)             Requested size: 137.9979pt x 37.4504pt.
+
+
+[4 <./part-2-waveform.png>]
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2024/09/23 1.10c listings language file
+)
+(/nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2024102
+7-texmfdist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2024/09/23 1.10c listings language file
+)
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 176.
+
+
+[5 <./part-2-schematic-after.png> <./part-2-schematic-before.png>]
+Overfull \hbox (52.2738pt too wide) detected at line 264
+[]
+ []
+
+
+
+[6]
+
+[7]
+<part-3-schem-before.png, id=46, 469.755pt x 126.2316pt>
+File: part-3-schem-before.png Graphic file (type png)
+<use part-3-schem-before.png>
+Package pdftex.def Info: part-3-schem-before.png  used on input line 316.
+(pdftex.def)             Requested size: 172.5pt x 46.35246pt.
+<part-3-schem-after.png, id=47, 874.26625pt x 263.98625pt>
+File: part-3-schem-after.png Graphic file (type png)
+<use part-3-schem-after.png>
+Package pdftex.def Info: part-3-schem-after.png  used on input line 318.
+(pdftex.def)             Requested size: 172.5pt x 52.08736pt.
+<part-3-waveform.png, id=48, 1152.305pt x 191.71625pt>
+File: part-3-waveform.png Graphic file (type png)
+<use part-3-waveform.png>
+Package pdftex.def Info: part-3-waveform.png  used on input line 323.
+(pdftex.def)             Requested size: 258.75pt x 43.04945pt.
+
+
+[8 <./part-3-schem-before.png> <./part-3-schem-after.png (PNG copy)>]
+
+Package karnaugh-map Warning: The API for specifying variable labels have been 
+updated. You are currently using the old API(v1). In the new API each variable 
+label is specified separately. See the documentation for more details. Backward
+ compatibility may disappear in a future release. on input line 357.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 357.
+\@karnaughmap@local@northwest@=\count319
+\@karnaughmap@local@southeast@=\count320
+\@karnaughmap@local@northwest@=\count321
+\@karnaughmap@local@southeast@=\count322
+\@karnaughmap@local@northwest@=\count323
+\@karnaughmap@local@southeast@=\count324
+\@karnaughmap@local@testcaseone@=\count325
+\@karnaughmap@local@testcasetwo@=\count326
+\@karnaughmap@local@coordinateonecounter@=\count327
+\@karnaughmap@local@coordinatetwocounter@=\count328
+\@karnaughmap@local@coordinateonecounter@=\count329
+\@karnaughmap@local@coordinatetwocounter@=\count330
+
+
+[9 <./part-3-waveform.png (PNG copy)>]
+Overfull \hbox (52.16145pt too wide) detected at line 373
+[]
+ []
+
+<part-4-schem-sop.png, id=57, 1711.39375pt x 543.02875pt>
+File: part-4-schem-sop.png Graphic file (type png)
+<use part-4-schem-sop.png>
+Package pdftex.def Info: part-4-schem-sop.png  used on input line 398.
+(pdftex.def)             Requested size: 172.5pt x 54.72864pt.
+<part-4-schem-pos.png, id=58, 2133.9725pt x 599.23875pt>
+File: part-4-schem-pos.png Graphic file (type png)
+<use part-4-schem-pos.png>
+Package pdftex.def Info: part-4-schem-pos.png  used on input line 400.
+(pdftex.def)             Requested size: 172.5pt x 48.43382pt.
+<part-4-waveform.png, id=59, 1949.2825pt x 181.67876pt>
+File: part-4-waveform.png Graphic file (type png)
+<use part-4-waveform.png>
+Package pdftex.def Info: part-4-waveform.png  used on input line 404.
+(pdftex.def)             Requested size: 258.75pt x 24.11528pt.
+
+
+[10 <./part-4-schem-sop.png (PNG copy)> <./part-4-schem-pos.png (PNG copy)>]
+
+[11 <./part-4-waveform.png (PNG copy)>]
+
+Package karnaugh-map Warning: The API for specifying variable labels have been 
+updated. You are currently using the old API(v1). In the new API each variable 
+label is specified separately. See the documentation for more details. Backward
+ compatibility may disappear in a future release. on input line 466.
+
+\@karnaughmap@local@northwest@=\count331
+\@karnaughmap@local@southeast@=\count332
+\@karnaughmap@local@northwest@=\count333
+\@karnaughmap@local@southeast@=\count334
+\@karnaughmap@local@testcaseone@=\count335
+\@karnaughmap@local@testcasetwo@=\count336
+\@karnaughmap@local@coordinateonecounter@=\count337
+\@karnaughmap@local@coordinatetwocounter@=\count338
+\@karnaughmap@local@coordinateonecounter@=\count339
+\@karnaughmap@local@coordinatetwocounter@=\count340
+
+
+[12]
+<part-5-waveform.png, id=69, 512.66531pt x 140.77594pt>
+File: part-5-waveform.png Graphic file (type png)
+<use part-5-waveform.png>
+Package pdftex.def Info: part-5-waveform.png  used on input line 511.
+(pdftex.def)             Requested size: 172.5pt x 47.36697pt.
+<part-5-schematic-sop.png, id=70, 667.74469pt x 166.37157pt>
+File: part-5-schematic-sop.png Graphic file (type png)
+<use part-5-schematic-sop.png>
+Package pdftex.def Info: part-5-schematic-sop.png  used on input line 515.
+(pdftex.def)             Requested size: 137.9979pt x 34.38309pt.
+<part-5-schematic-pos.png, id=71, 667.74469pt x 211.54031pt>
+File: part-5-schematic-pos.png Graphic file (type png)
+<use part-5-schematic-pos.png>
+Package pdftex.def Info: part-5-schematic-pos.png  used on input line 517.
+(pdftex.def)             Requested size: 137.9979pt x 43.71786pt.
+
+
+[13]
+
+[14 <./part-5-waveform.png> <./part-5-schematic-sop.png> <./part-5-schematic-po
+s.png>]
+
+[15] (./main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16759 strings out of 473577
+ 347802 string characters out of 5700522
+ 1002294 words of memory out of 5000000
+ 39406 multiletter control sequences out of 15000+600000
+ 563571 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,15n,107p,665b,1722s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.20241
+027-texmfdist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></nix/store/fr74n25x41p
+4fwznm61icfzclfajnp2a-texlive-combined-full-2024.20241027-texmfdist/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-tex
+live-combined-full-2024.20241027-texmfdist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2
+0241027-texmfdist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></nix/store/fr74n25x
+41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.20241027-texmfdist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-t
+exlive-combined-full-2024.20241027-texmfdist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.
+20241027-texmfdist/fonts/type1/public/amsfonts/cm/cmr17.pfb></nix/store/fr74n25
+x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.20241027-texmfdist/fonts/t
+ype1/public/amsfonts/cm/cmr5.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-t
+exlive-combined-full-2024.20241027-texmfdist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.2
+0241027-texmfdist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></nix/store/fr74n25
+x41p4fwznm61icfzclfajnp2a-texlive-combined-full-2024.20241027-texmfdist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></nix/store/fr74n25x41p4fwznm61icfzclfajnp2a-
+texlive-combined-full-2024.20241027-texmfdist/fonts/type1/public/amsfonts/cm/cm
+tt9.pfb>
+Output written on main.pdf (15 pages, 435488 bytes).
+PDF statistics:
+ 136 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+

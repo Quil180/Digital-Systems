@@ -1,0 +1,6 @@
+\contentsline {section}{Equipment}{2}{}%
+\contentsline {section}{Objective}{2}{}%
+\contentsline {section}{Part 2: Simple Boolean Network Testbench}{2}{}%
+\contentsline {section}{Part 3: Complex Boolean Network Testbench}{5}{}%
+\contentsline {section}{Part 4: Application for Circuit Debugging}{10}{}%
+\contentsline {section}{Conclusion}{12}{}%

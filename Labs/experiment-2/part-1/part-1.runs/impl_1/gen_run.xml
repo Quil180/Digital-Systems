@@ -35,41 +35,41 @@
   <File Type="BG-BIT" Name="CIRCUIT_DEBUGGING.bit"/>
   <File Type="PDI-FILE" Name="CIRCUIT_DEBUGGING.pdi"/>
   <File Type="RDI-RDI" Name="CIRCUIT_DEBUGGING.vdi"/>
-  <File Type="ROUTE-TIMINGSUMMARY" Name="CIRCUIT_DEBUGGING_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="COMPLEX_BOOL_NETWORK_timing_summary_routed.rpt"/>
   <File Type="BG-BIN" Name="CIRCUIT_DEBUGGING.bin"/>
-  <File Type="PLACE-IO" Name="CIRCUIT_DEBUGGING_io_placed.rpt"/>
-  <File Type="OPT-DRC" Name="CIRCUIT_DEBUGGING_drc_opted.rpt"/>
-  <File Type="PLACE-CTRL" Name="CIRCUIT_DEBUGGING_control_sets_placed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="CIRCUIT_DEBUGGING_methodology_drc_routed.rpt"/>
-  <File Type="PLACE-UTIL-PB" Name="CIRCUIT_DEBUGGING_utilization_placed.pb"/>
-  <File Type="ROUTE-TIMING-RPX" Name="CIRCUIT_DEBUGGING_timing_summary_routed.rpx"/>
+  <File Type="PLACE-IO" Name="COMPLEX_BOOL_NETWORK_io_placed.rpt"/>
+  <File Type="OPT-DRC" Name="COMPLEX_BOOL_NETWORK_drc_opted.rpt"/>
+  <File Type="PLACE-CTRL" Name="COMPLEX_BOOL_NETWORK_control_sets_placed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="COMPLEX_BOOL_NETWORK_methodology_drc_routed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="COMPLEX_BOOL_NETWORK_utilization_placed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="COMPLEX_BOOL_NETWORK_timing_summary_routed.rpx"/>
   <File Type="REPORTS-TCL" Name="CIRCUIT_DEBUGGING_reports.tcl"/>
   <File Type="PA-TCL" Name="CIRCUIT_DEBUGGING.tcl"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="CIRCUIT_DEBUGGING_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="COMPLEX_BOOL_NETWORK_methodology_drc_routed.pb"/>
   <File Type="BG-BGN" Name="CIRCUIT_DEBUGGING.bgn"/>
-  <File Type="PLACE-UTIL" Name="CIRCUIT_DEBUGGING_utilization_placed.rpt"/>
-  <File Type="ROUTE-STATUS" Name="CIRCUIT_DEBUGGING_route_status.rpt"/>
-  <File Type="ROUTE-STATUS-PB" Name="CIRCUIT_DEBUGGING_route_status.pb"/>
+  <File Type="PLACE-UTIL" Name="COMPLEX_BOOL_NETWORK_utilization_placed.rpt"/>
+  <File Type="ROUTE-STATUS" Name="COMPLEX_BOOL_NETWORK_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="COMPLEX_BOOL_NETWORK_route_status.pb"/>
   <File Type="BG-DRC" Name="CIRCUIT_DEBUGGING.drc"/>
-  <File Type="ROUTE-PWR" Name="CIRCUIT_DEBUGGING_power_routed.rpt"/>
-  <File Type="ROUTE-PWR-RPX" Name="CIRCUIT_DEBUGGING_power_routed.rpx"/>
-  <File Type="ROUTE-PWR-SUM" Name="CIRCUIT_DEBUGGING_power_summary_routed.pb"/>
-  <File Type="ROUTE-DRC" Name="CIRCUIT_DEBUGGING_drc_routed.rpt"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="CIRCUIT_DEBUGGING_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-DRC-RPX" Name="CIRCUIT_DEBUGGING_drc_routed.rpx"/>
-  <File Type="ROUTE-DRC-PB" Name="CIRCUIT_DEBUGGING_drc_routed.pb"/>
-  <File Type="ROUTE-SIMILARITY" Name="CIRCUIT_DEBUGGING_incremental_reuse_routed.rpt"/>
-  <File Type="ROUTE-CLK" Name="CIRCUIT_DEBUGGING_clock_utilization_routed.rpt"/>
-  <File Type="ROUTE-BUS-SKEW" Name="CIRCUIT_DEBUGGING_bus_skew_routed.rpt"/>
-  <File Type="ROUTE-BUS-SKEW-RPX" Name="CIRCUIT_DEBUGGING_bus_skew_routed.rpx"/>
-  <File Type="ROUTE-BUS-SKEW-PB" Name="CIRCUIT_DEBUGGING_bus_skew_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="COMPLEX_BOOL_NETWORK_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="COMPLEX_BOOL_NETWORK_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="COMPLEX_BOOL_NETWORK_power_summary_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="COMPLEX_BOOL_NETWORK_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="COMPLEX_BOOL_NETWORK_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="COMPLEX_BOOL_NETWORK_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="COMPLEX_BOOL_NETWORK_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="COMPLEX_BOOL_NETWORK_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="COMPLEX_BOOL_NETWORK_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="COMPLEX_BOOL_NETWORK_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="COMPLEX_BOOL_NETWORK_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="COMPLEX_BOOL_NETWORK_bus_skew_routed.pb"/>
   <File Type="BITSTR-MSK" Name="CIRCUIT_DEBUGGING.msk"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="CIRCUIT_DEBUGGING_timing_summary_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="CIRCUIT_DEBUGGING_timing_summary_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="CIRCUIT_DEBUGGING_timing_summary_postroute_physopted.pb"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="CIRCUIT_DEBUGGING_bus_skew_postroute_physopted.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="CIRCUIT_DEBUGGING_bus_skew_postroute_physopted.rpx"/>
-  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="CIRCUIT_DEBUGGING_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="COMPLEX_BOOL_NETWORK_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="COMPLEX_BOOL_NETWORK_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="COMPLEX_BOOL_NETWORK_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="COMPLEX_BOOL_NETWORK_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="COMPLEX_BOOL_NETWORK_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="COMPLEX_BOOL_NETWORK_bus_skew_postroute_physopted.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/part-1.v">

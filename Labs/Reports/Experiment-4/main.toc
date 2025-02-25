@@ -1,0 +1,7 @@
+\contentsline {section}{Equipment}{2}{}%
+\contentsline {section}{Objective}{2}{}%
+\contentsline {section}{Part 1: Half/Full Adder}{2}{}%
+\contentsline {subsection}{Half Adder}{2}{}%
+\contentsline {subsection}{Full Adder}{5}{}%
+\contentsline {section}{Part 1: 8-Bit Ripple Carry Adder}{7}{}%
+\contentsline {section}{Conclusion}{9}{}%

@@ -20,77 +20,77 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module and_tb();
-    parameter NUMIN = 2; // number of input bits
-    reg[NUMIN - 1:0] count; // an bit array of size NUMIN - 1
-    integer i; // counter for the for loop
+//module and_tb();
+//    parameter NUMIN = 2; // number of input bits
+//    reg[NUMIN - 1:0] count; // an bit array of size NUMIN - 1
+//    integer i; // counter for the for loop
     
-    reg a, b; // inputs
-    wire out; // output
+//    reg a, b; // inputs
+//    wire out; // output
     
-    AND UUT(.A(a), .B(b), .Out(out)); // instantiating the AND operation
+//    AND UUT(.A(a), .B(b), .Out(out)); // instantiating the AND operation
     
-    initial begin
-        count = 0; // note that count starts with 00 (then 01 10 11 or 1 2 3)
-        for (i = 0; i < 2**NUMIN; i = i + 1) begin
-            a = count[1];
-            b = count[0];
-            count = count + 1;
-            #10; // delays the simulation by 10 nanoseconds
-        end
-    end
+//    initial begin
+//        count = 0; // note that count starts with 00 (then 01 10 11 or 1 2 3)
+//        for (i = 0; i < 2**NUMIN; i = i + 1) begin
+//            a = count[1];
+//            b = count[0];
+//            count = count + 1;
+//            #10; // delays the simulation by 10 nanoseconds
+//        end
+//    end
     
-endmodule
+//endmodule
 
-module bool_tb();
-    parameter NUMIN = 4;
-    reg[NUMIN - 1:0] count;
-    integer i;
+//module bool_tb();
+//    parameter NUMIN = 4;
+//    reg[NUMIN - 1:0] count;
+//    integer i;
     
-    reg a, b, c, d;
-    wire out;
+//    reg a, b, c, d;
+//    wire out;
     
-    BOOL_NETWORK UUT(.A(a), .B(b), .C(c), .D(d), .OUT(out));
+//    BOOL_NETWORK UUT(.A(a), .B(b), .C(c), .D(d), .OUT(out));
     
-    initial begin
-        count = 0; // setting count to 000
-        for (i = 0; i < 2**NUMIN; i = i + 1)begin
-            a = count[3];
-            b = count[2];
-            c = count[1];
-            d = count[0];
-            count = count + 1;
-            #10;
-        end
-    end
+//    initial begin
+//        count = 0; // setting count to 000
+//        for (i = 0; i < 2**NUMIN; i = i + 1)begin
+//            a = count[3];
+//            b = count[2];
+//            c = count[1];
+//            d = count[0];
+//            count = count + 1;
+//            #10;
+//        end
+//    end
     
-endmodule
+//endmodule
 
-module complex_bool_tb();
-    parameter NUMIN = 5;
-    reg[NUMIN - 1:0] count;
-    integer i;
+//module complex_bool_tb();
+//    parameter NUMIN = 5;
+//    reg[NUMIN - 1:0] count;
+//    integer i;
     
-    reg a, b, c, d, e;
-    wire out; // F
+//    reg a, b, c, d, e;
+//    wire out; // F
     
-    COMPLEX_BOOL_NETWORK UUT(.A(a), .B(b), .C(c), .D(d), .E(e), .OUT(out));
+//    COMPLEX_BOOL_NETWORK UUT(.A(a), .B(b), .C(c), .D(d), .E(e), .OUT(out));
     
-    initial begin
-        count = 0;
-        for (i = 0; i < 2**NUMIN; i = i + 1) begin
-            a = count[4];
-            b = count[3];
-            c = count[2];
-            d = count[1];
-            e = count[0];
+//    initial begin
+//        count = 0;
+//        for (i = 0; i < 2**NUMIN; i = i + 1) begin
+//            a = count[4];
+//            b = count[3];
+//            c = count[2];
+//            d = count[1];
+//            e = count[0];
             
-            count = count + 1;
-            #10;
-        end
-    end
+//            count = count + 1;
+//            #10;
+//        end
+//    end
     
-endmodule
+//endmodule
 
 module circuit_debugging_tb();
     parameter NUMIN = 3;

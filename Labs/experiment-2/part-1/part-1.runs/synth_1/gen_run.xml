@@ -4,8 +4,8 @@
   <File Type="RDS-RDS" Name="CIRCUIT_DEBUGGING.vds"/>
   <File Type="REPORTS-TCL" Name="CIRCUIT_DEBUGGING_reports.tcl"/>
   <File Type="PA-TCL" Name="CIRCUIT_DEBUGGING.tcl"/>
-  <File Type="RDS-UTIL" Name="CIRCUIT_DEBUGGING_utilization_synth.rpt"/>
-  <File Type="RDS-UTIL-PB" Name="CIRCUIT_DEBUGGING_utilization_synth.pb"/>
+  <File Type="RDS-UTIL" Name="COMPLEX_BOOL_NETWORK_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="COMPLEX_BOOL_NETWORK_utilization_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/part-1.v">

@@ -1,0 +1,12 @@
+\contentsline {section}{Equipment}{2}{}%
+\contentsline {section}{Objective}{2}{}%
+\contentsline {section}{Part 1}{2}{}%
+\contentsline {subsection}{Simplification of Boolean Expressions}{2}{}%
+\contentsline {subsubsection}{AB'C + A'BC' + A'B'C}{2}{}%
+\contentsline {subsubsection}{ABC + AB'C + A'BC' + A'B'C}{3}{}%
+\contentsline {subsection}{Find the POS and SOP of the given Truth Table}{3}{}%
+\contentsline {section}{Part 2}{4}{}%
+\contentsline {section}{Part 3}{6}{}%
+\contentsline {section}{Part 4}{9}{}%
+\contentsline {section}{Part 5}{12}{}%
+\contentsline {section}{Conclusion}{15}{}%

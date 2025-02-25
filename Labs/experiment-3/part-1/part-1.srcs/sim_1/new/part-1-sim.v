@@ -21,21 +21,22 @@
 
 
 module part_1_sim();
-    parameter NUMIN = 3;
+    parameter NUMIN = 4;
     reg[NUMIN - 1:0] count;
     integer i;
     
-    reg a, b, c;
+    reg a, b, c, d;
     wire f;
     
-    part_1 UUT(.A(a), .B(b), .C(c), .F(f));
+    part_3_simplified UUT(.A(a), .B(b), .C(c), .D(d), .F(f));
     
     initial begin
         count = 0;
         for (i = 0; i < 2**NUMIN; i = i + 1) begin
-            assign a = count[2];
-            assign b = count[1];
-            assign c = count[0];
+            assign a = count[3];
+            assign b = count[2];
+            assign c = count[1];
+            assign d = count[0];
             
             count = count + 1;
             #10;

@@ -3,5 +3,5 @@
 Nov  8 2024
 22:36:55
 /home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
-/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sim_1/new/Part-1-Sim.v,1737089009,verilog,,,,circuit_debugging_tb,,,,,,,,
-/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sources_1/new/part-1.v,1737469801,verilog,,/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sim_1/new/Part-1-Sim.v,,CIRCUIT_DEBUGGING,,,,,,,,
+/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sim_1/new/Part-1-Sim.v,1738208968,verilog,,/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sources_1/new/part-1.v,,complex_bool_tb,,,,,,,,
+/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sources_1/new/part-1.v,1738208309,verilog,,/home/yousef/Desktop/UCF/Classes/Spring25/EEE3342C/Labs/experiment-2/part-1/part-1.srcs/sim_1/new/Part-1-Sim.v,,COMPLEX_BOOL_NETWORK,,,,,,,,

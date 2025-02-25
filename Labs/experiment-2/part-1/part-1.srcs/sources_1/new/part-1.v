@@ -20,42 +20,42 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module AND( // part 1
-    input A, B,
-    output Out
-    );
+//module AND( // part 1
+//    input A, B,
+//    output Out
+//    );
     
-    assign Out = A & B;
+//    assign Out = A & B;
     
-endmodule
+//endmodule
 
-module BOOL_NETWORK( // Simple Boolean Network aka part 2
-        input A, B, C, D,
-        output OUT
-    );
-    wire andAB, orCD;
+//module BOOL_NETWORK( // Simple Boolean Network aka part 2
+//        input A, B, C, D,
+//        output OUT
+//    );
+//    wire andAB, orCD;
 
-    assign andAB = A & B;
-    assign orCD = (C | D);
+//    assign andAB = A & B;
+//    assign orCD = (C | D);
 
-    assign OUT = ~(andAB | (~orCD));
+//    assign OUT = ~(andAB | (~orCD));
     
-endmodule
+//endmodule
 
-module COMPLEX_BOOL_NETWORK( // part 3
-        input A, B, C, D, E,
-        output OUT // F
-    );
-    wire w1, w2, w3, w4;
+//module COMPLEX_BOOL_NETWORK( // part 3
+//        input A, B, C, D, E,
+//        output OUT // F
+//    );
+//    wire w1, w2, w3, w4;
     
-    assign w1 = ~(A & B);
-    assign w2 = ~(D | E);
-    assign w3 = w1 | C;
-    assign w4 = w2 & (~C);
+//    assign w1 = ~(A & B);
+//    assign w2 = ~(D | E);
+//    assign w3 = w1 | C;
+//    assign w4 = w2 & (~C);
     
-    assign OUT = w3 ^ w4;
+//    assign OUT = w3 ^ w4;
     
-endmodule
+//endmodule
 
 module CIRCUIT_DEBUGGING( // part 4
         input A, B, C,

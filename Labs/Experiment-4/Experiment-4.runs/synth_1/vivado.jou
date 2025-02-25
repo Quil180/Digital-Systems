@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Feb 18 11:05:17 2025
+# Process ID         : 52394
+# Current directory  : /home/quil/Documents/School/Classes/Spring25/EEE3342C/Labs/Experiment-4/Experiment-4.runs/synth_1
+# Command line       : vivado -log eight_bit_ripple_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source eight_bit_ripple_adder.tcl
+# Log file           : /home/quil/Documents/School/Classes/Spring25/EEE3342C/Labs/Experiment-4/Experiment-4.runs/synth_1/eight_bit_ripple_adder.vds
+# Journal file       : /home/quil/Documents/School/Classes/Spring25/EEE3342C/Labs/Experiment-4/Experiment-4.runs/synth_1/vivado.jou
+# Running On         : snowflake
+# Platform           : NixOS
+# Operating System   : NixOS 25.05 (Warbler)
+# Processor Detail   : AMD Ryzen 9 6900HS with Radeon Graphics
+# CPU Frequency      : 1326.166 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 41243 MB
+# Swap memory        : 42949 MB
+# Total Virtual      : 84193 MB
+# Available Virtual  : 72099 MB
+#-----------------------------------------------------------
+source eight_bit_ripple_adder.tcl -notrace
