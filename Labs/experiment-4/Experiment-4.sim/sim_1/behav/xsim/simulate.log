@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Mode = 0 | Number 1 =         50, Number2 =         25 | Sum =         75, CarryOUT = 0
+Mode = 1 | Number 1 =         50, Number2 =         25 | Sum =         25, CarryOUT = 1
+INFO: xsimkernel Simulation Memory Usage: 487640 KB (Peak: 541072 KB), Simulation CPU Usage: 800 ms

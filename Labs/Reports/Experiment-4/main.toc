@@ -2,6 +2,8 @@
 \contentsline {section}{Objective}{2}{}%
 \contentsline {section}{Part 1: Half/Full Adder}{2}{}%
 \contentsline {subsection}{Half Adder}{2}{}%
-\contentsline {subsection}{Full Adder}{5}{}%
-\contentsline {section}{Part 1: 8-Bit Ripple Carry Adder}{7}{}%
-\contentsline {section}{Conclusion}{9}{}%
+\contentsline {subsection}{Full Adder}{4}{}%
+\contentsline {section}{Part 2: 8-Bit Ripple Carry Adder}{6}{}%
+\contentsline {section}{Part 3: Carry Look-Ahead Adder}{8}{}%
+\contentsline {section}{Part 4: 32-bit Adder and Subtractor}{11}{}%
+\contentsline {section}{Conclusion}{14}{}%

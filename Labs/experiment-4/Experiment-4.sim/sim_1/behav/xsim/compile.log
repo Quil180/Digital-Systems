@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/quil/Documents/School/Classes/Spring25/EEE3342C/Labs/experiment-4/Experiment-4.srcs/sources_1/new/binary_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder
+INFO: [VRFC 10-311] analyzing module full_adder
+INFO: [VRFC 10-311] analyzing module thirtytwo_bit_multi_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/quil/Documents/School/Classes/Spring25/EEE3342C/Labs/experiment-4/Experiment-4.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_part4
